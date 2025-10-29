@@ -12,6 +12,11 @@ https://knd0210.xyz/
 
 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [记一次端侧大模型部署](https://exdoubled.github.io/misc/lab1/)
+- [数据结构作业题解05](https://exdoubled.github.io/sjjg/homework05/)
+- [Bomb Lab](https://exdoubled.github.io/CSAPP/Bomb%20Lab/)
+- [数据结构作业题解04](https://exdoubled.github.io/sjjg/homework04/)
+- [递归和非递归](https://exdoubled.github.io/sjjg/sjjg04/)
 <!-- BLOG-POST-LIST:END -->
 
 <picture>
