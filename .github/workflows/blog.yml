@@ -16,4 +16,4 @@ jobs:
       - name: Pull in blog's posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://knd0210.xyz/"
+          feed_list: "https://knd0210.xyz/atom.xml"
