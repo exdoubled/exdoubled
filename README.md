@@ -1,6 +1,12 @@
 ## Hi there 👋
 I’m a second-year Cybersecurity student at Fudan University,exploring systems, cryptography, and secure software design.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/exdoubled/exdoubled/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/exdoubled/exdoubled/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/exdoubled/exdoubled/output/github-contribution-grid-snake.svg">
+</picture>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exdoubled)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=exdoubled)
@@ -19,8 +25,4 @@ https://knd0210.xyz/
 - [递归和非递归](https://exdoubled.github.io/sjjg/sjjg04/)
 <!-- BLOG-POST-LIST:END -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/exdoubled/exdoubled/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/exdoubled/exdouble/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/exdoubled/exdoubled/output/github-contribution-grid-snake.svg">
-</picture>
+
