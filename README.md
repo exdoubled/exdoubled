@@ -15,11 +15,11 @@ My Blog👉 https://knd0210.xyz/
 
 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [数据结构作业题解08](https://exdoubled.github.io/sjjg/homework8/)
 - [数字逻辑学习笔记04](https://exdoubled.github.io/szlj/szlj04/)
 - [数据结构作业题解07](https://exdoubled.github.io/sjjg/homework07/)
 - [树](https://exdoubled.github.io/sjjg/sjjg06/)
 - [集合与图论学习笔记06](https://exdoubled.github.io/lssx/ls06/)
-- [排序算法](https://exdoubled.github.io/sjjg/sjjg05/)
 <!-- BLOG-POST-LIST:END -->
 
 
