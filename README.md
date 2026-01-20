@@ -15,11 +15,11 @@ My Blog👉 https://knd0210.xyz/
 
 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [OSTEP01](https://exdoubled.github.io/OSTEP/OSTEP01/)
 - [逆向工程核心原理02](https://exdoubled.github.io/reverse/reverse2/)
 - [逆向工程核心原理01](https://exdoubled.github.io/reverse/reverse1/)
 - [CSAPP8](https://exdoubled.github.io/CSAPP/CSAPP8/)
 - [CSAPP7](https://exdoubled.github.io/CSAPP/CSAPP7/)
-- [CSAPP6](https://exdoubled.github.io/CSAPP/CSAPP6/)
 <!-- BLOG-POST-LIST:END -->
 
 
