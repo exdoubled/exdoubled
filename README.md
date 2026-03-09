@@ -15,11 +15,11 @@ My Blog👉 https://knd0210.xyz/
 
 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [计组学习笔记1](https://exdoubled.github.io/jsjzcyl/jz1/)
+- [计算机网络学习笔记1](https://exdoubled.github.io/web/web1/)
+- [代数结构与数理逻辑学习笔记1](https://exdoubled.github.io/lssx/ls11/)
+- [线性表](https://exdoubled.github.io/sf/sf1/)
 - [逆向工程核心原理03](https://exdoubled.github.io/reverse/reverse3/)
-- [HNSW 的基础实现和优化探索](https://exdoubled.github.io/misc/lab2/)
-- [OSTEP01](https://exdoubled.github.io/OSTEP/OSTEP01/)
-- [逆向工程核心原理02](https://exdoubled.github.io/reverse/reverse2/)
-- [逆向工程核心原理01](https://exdoubled.github.io/reverse/reverse1/)
 <!-- BLOG-POST-LIST:END -->
 
 
