@@ -15,11 +15,11 @@ My Blog👉 https://knd0210.xyz/
 
 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [代数结构与数理逻辑学习笔记4](https://exdoubled.github.io/lssx/ls14/)
+- [代数结构与数理逻辑学习笔记3](https://exdoubled.github.io/lssx/ls13/)
 - [个人使用翻墙VPN到底违不违法?](https://exdoubled.github.io/misc/vpn/)
 - [动态规划](https://exdoubled.github.io/sf/sf5/)
 - [逆向工程基本原理04](https://exdoubled.github.io/reverse/lecture04/)
-- [代数结构与数理逻辑学习笔记2](https://exdoubled.github.io/lssx/ls12/)
-- [摊还分析](https://exdoubled.github.io/sf/sf4/)
 <!-- BLOG-POST-LIST:END -->
 
 
