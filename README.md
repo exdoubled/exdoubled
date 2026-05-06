@@ -18,8 +18,8 @@ My Blog👉 https://knd0210.xyz/
 - [逆向工程基本原理07](https://exdoubled.github.io/reverse/lecture07/)
 - [Rust 入门：从语法到所有权](https://exdoubled.github.io/rust/rust01/)
 - [代数结构与数理逻辑学习笔记4](https://exdoubled.github.io/lssx/ls14/)
-- [逆向工程基本原理06](https://exdoubled.github.io/reverse/lecture06/)
 - [代数结构与数理逻辑学习笔记3](https://exdoubled.github.io/lssx/ls13/)
+- [逆向工程基本原理06](https://exdoubled.github.io/reverse/lecture06/)
 <!-- BLOG-POST-LIST:END -->
 
 
