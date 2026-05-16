@@ -16,10 +16,10 @@ My Blog👉 https://knd0210.xyz/
 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [代数结构与数理逻辑学习笔记5](https://exdoubled.github.io/lssx/ls15/)
+- [计组学习笔记3](https://exdoubled.github.io/jsjzcyl/jz4/)
 - [逆向工程基本原理07](https://exdoubled.github.io/reverse/lecture07/)
 - [网络流](https://exdoubled.github.io/sf/sf8/)
 - [Rust 入门：从语法到所有权](https://exdoubled.github.io/rust/rust01/)
-- [代数结构与数理逻辑学习笔记4](https://exdoubled.github.io/lssx/ls14/)
 <!-- BLOG-POST-LIST:END -->
 
 
