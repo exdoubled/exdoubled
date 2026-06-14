@@ -15,11 +15,11 @@ My Blog👉 https://knd0210.xyz/
 
 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [计组学习笔记7](https://exdoubled.github.io/jsjzcyl/jz8/)
+- [代数结构与数理逻辑学习笔记8](https://exdoubled.github.io/lssx/ls18/)
+- [代数结构与数理逻辑学习笔记7](https://exdoubled.github.io/lssx/ls17/)
+- [代数结构与数理逻辑学习笔记6](https://exdoubled.github.io/lssx/ls16/)
 - [计组学习笔记6](https://exdoubled.github.io/jsjzcyl/jz7/)
-- [近似算法](https://exdoubled.github.io/sf/sf11/)
-- [计算机网络学习笔记7](https://exdoubled.github.io/web/web7/)
-- [NP 完全性与归约](https://exdoubled.github.io/sf/sf10/)
+- [计组学习笔记7](https://exdoubled.github.io/jsjzcyl/jz8/)
 <!-- BLOG-POST-LIST:END -->
 
 
