@@ -15,11 +15,11 @@ My Blog👉 https://knd0210.xyz/
 
 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Reverse题记](https://exdoubled.github.io/reverse/ReverseCTF/)
 - [代数结构与数理逻辑学习笔记8](https://exdoubled.github.io/lssx/ls18/)
 - [代数结构与数理逻辑学习笔记7](https://exdoubled.github.io/lssx/ls17/)
 - [代数结构与数理逻辑学习笔记6](https://exdoubled.github.io/lssx/ls16/)
 - [快速傅里叶变换](https://exdoubled.github.io/sf/sf12/)
-- [面向对象程序设计09](https://exdoubled.github.io/c++/oop9/)
 <!-- BLOG-POST-LIST:END -->
 
 
