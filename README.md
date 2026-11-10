@@ -1,5 +1,5 @@
 ## Hi there 👋
-  I’m a second-year Cybersecurity student at Fudan University.
+  I’m a third-year Cybersecurity student at Fudan University.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/exdoubled/exdoubled/output/github-contribution-grid-snake-dark.svg">
